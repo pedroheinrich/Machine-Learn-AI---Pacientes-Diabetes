@@ -17,6 +17,14 @@ Acesse o portal:
 Clique em "Criar Recurso +"
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/2ae797ad-f87b-45e5-b27f-e0a65b36a6e6)
 
+Pesquise por "Machine Learning"
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/c7ceed88-fec6-447a-8d9f-dc0971e5b18f)
+
+Em "Azure Machine Learning" clique em "Criar" e em seguida "Azure Machine Learning"
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/8c6fcec1-309e-487b-afdd-140bc997f305)
+
+
+
 
 
 
