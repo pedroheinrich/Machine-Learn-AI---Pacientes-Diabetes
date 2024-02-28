@@ -110,9 +110,57 @@ Colei o link e após isso cliquei em "Avançar"
 
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/3daea91c-9a92-4fc6-b9d0-4a2af8a051cf)
 
+Mantenha as configurações e clique em "Avançar" novamente
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/9ee89728-7049-48cc-987f-d2a1fc8cac69)
+
+Em "Esquema" revise todas as colunas que você quer manter e clique em "Avançar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/697b64ec-be4e-4e79-9c3d-eb232e184f84)
+
+Selecione "Criar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f2650402-e687-4749-9c5f-1f6606450cf8)
+
+Selecione o seu arquivo e clique em "Avançar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f9402649-4174-441d-927c-daef564d0be4)
 
 
+Após, selecione a "Coluna de destino"
 
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/93fa9392-671d-4f02-ae57-e3a670930ee2)
+
+Clique em "Definir configurações adicionais"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/7f3946c2-16e1-4889-9db1-0253f020c8f8)
+
+Desmarque as opções "Explicar o melhor modelo" e "Usar todos os modelos suportados"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/1cb5fd45-8c44-4401-884d-343e2d550241)
+
+Em "Modelos permitidos" selecione "RandomForest" e "LightGBM"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/e8d2b082-7899-4104-88b9-ccbc0880fed8)
+
+
+"Salvar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/5c72bf84-ec1f-4b81-9cc6-40640314f1b7)
+
+Expanda a aba "Limites"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/04a74dd0-298e-4b5a-bf2c-3efbe28a65a6)
+
+Configure como na imagem abaixo
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/3b82747a-6c43-4cd3-82a9-543a0a43b402)
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/3d4ed9ce-cd7c-413c-b032-a73955f4c89b)
+
+Em "Computação" mantenha as configurações como na imagem
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f2de25b5-7d34-4e81-b6c7-55f2d7aa7fdc)
 
 
 
