@@ -172,3 +172,44 @@ Aguarde a execução que pode demorar uns 15mins
 
 ## Avalie o melhor modelo
 
+Após a conclusão do trabalho clique no "Nome do Algoritmo"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/4f919f28-e952-4b73-8d99-a652c4bf50c8)
+
+Selecione "Métricas"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/77009cfe-55db-4e58-8e82-cc717f9e2cc0)
+
+E ali você terá todos os dados
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/ea96d1de-a059-4166-baff-43af6eea021d)
+
+## Implantar e testar o modelo
+
+Vá em "Modelo"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/59d5fd7a-ddbc-4a06-a575-9b6f6dbd7ad7)
+
+Clique em "Implantar" e depois "Serviço Web"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/e2a64efb-f34b-4558-9e28-d4585066f8b2)
+
+Preencha os dados do modelo e configure o restante como na imagem
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/3b7a84d0-de2d-4d2a-bff7-2f4e391eb30e)
+
+
+Clique em "Implantar" e aguarde 10 minutos
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/db072164-0a18-476d-a209-7805bcdaafec)
+
+## Testando o serviço implantado
+
+No menu da lateral esquerda, selecione "Endpoints" ou "Pontos de Extremidade"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/80a14cb8-b758-40ae-a47e-53c89bf26b3f)
+
+
+Clique no seu arquivo
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/4d6ce03d-0709-424a-ba7b-95a42058e18d)
