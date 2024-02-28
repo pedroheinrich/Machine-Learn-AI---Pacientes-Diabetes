@@ -213,3 +213,22 @@ No menu da lateral esquerda, selecione "Endpoints" ou "Pontos de Extremidade"
 Clique no seu arquivo
 
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/4d6ce03d-0709-424a-ba7b-95a42058e18d)
+
+Visualize a guia "Testar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/6e1156b9-90e3-4cf0-86fd-5f49613e7abd)
+
+
+Altere os dados que você julgar necessário para os testes!
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/224a615c-0fec-43e6-b4f8-a72f52d122c9)
+
+
+Clique em "Testar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/c316fc6c-5ef2-4ea7-baa2-ef5d84549bfc)
+
+Ao lado você terá o resultado do teste
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/55a7be66-63d9-41bd-8978-5c2a65b87e3b)
+
