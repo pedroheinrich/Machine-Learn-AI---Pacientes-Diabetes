@@ -67,6 +67,19 @@ Clique em "Todos os Espaços de Trabalho"
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/eaee4ea5-a9a6-42c8-8bdf-7e3bb807a5d4)
 
 
+Selecione o Espaço de Trabalho que você acabou de criar
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/9c45d9ea-6a54-46fc-a7ea-f0361f1e593a)
+
+Depois clique em "ML Automatizado"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/c185f364-9d9e-40d2-8c38-bac32f86112f)
+
+Clique em  "Novo trabalho de ML Automatizado"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f44252c1-d967-493b-b8da-dce6f2cdaf96)
+
+
 
 
 
