@@ -58,6 +58,9 @@ Depois clique em "Iniciar Estudio"
 
 
 
+Uma nova pagina vai iniciar no ml.azure.com
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/41a68110-aee4-4949-bdbd-7742e18082f7)
 
 
 
