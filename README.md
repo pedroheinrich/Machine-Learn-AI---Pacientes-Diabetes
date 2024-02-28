@@ -162,5 +162,13 @@ Em "Computação" mantenha as configurações como na imagem
 
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f2de25b5-7d34-4e81-b6c7-55f2d7aa7fdc)
 
+Clique em "Enviar trabalho de treinamento"
 
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/847e1b4c-01e8-4015-ba3c-dadc1b6c1846)
+
+Aguarde a execução que pode demorar uns 15mins
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/c175f526-7c36-4e04-b545-2f531794d467)
+
+## Avalie o melhor modelo
 
