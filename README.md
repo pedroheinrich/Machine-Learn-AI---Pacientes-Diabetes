@@ -62,6 +62,11 @@ Uma nova pagina vai iniciar no ml.azure.com
 
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/41a68110-aee4-4949-bdbd-7742e18082f7)
 
+Clique em "Todos os Espaços de Trabalho"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/eaee4ea5-a9a6-42c8-8bdf-7e3bb807a5d4)
+
+
 
 
 
