@@ -89,6 +89,30 @@ Após preencher os dados, "Selecionar tipo de tarefa" e clicar em "Regressão"
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/bff9d8cf-88ec-4b30-b0cc-04569dbcb823)
 
 
+Crie um novo conjunto de dados
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/e77a7478-6abf-4ee3-9cdd-b9f81d134515)
+
+Adicione as informações pertinentes ao teu projeto, selecione "Tabular" e "avançar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/655d8ec4-1460-498c-9d35-7dea8dcf0d54)
+
+Escolha a fonte dos dados, eu selecionei da Web
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/2df50198-1777-4a73-921b-d13bbb6f223d)
+
+
+Selecionei este arquivo CSV no github da MicrosofLearn 
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/01388086-9e65-4cc6-908c-816b417067da)
+
+Colei o link e após isso cliquei em "Avançar"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/3daea91c-9a92-4fc6-b9d0-4a2af8a051cf)
+
+
+
+
 
 
 
