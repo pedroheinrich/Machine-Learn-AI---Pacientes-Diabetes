@@ -47,6 +47,15 @@ Aguarde a Implantação
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/321e515b-d2e2-4870-ba57-726a27871367)
 
 
+Selecione "Ir para Recurso"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/b5a01a1d-b4c7-41db-a9ea-754f15c7f285)
+
+
+Depois clique em "Iniciar Estudio"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/ef7e5fb5-b93f-4820-ae3c-a4dc0773330a)
+
 
 
 
