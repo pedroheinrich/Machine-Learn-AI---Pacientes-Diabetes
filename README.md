@@ -232,3 +232,5 @@ Ao lado você terá o resultado do teste
 
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/55a7be66-63d9-41bd-8978-5c2a65b87e3b)
 
+Meu arquivo final JSON de Pontos de Extremidade:
+http://d0c21d8a-436b-42e6-bf58-3dacbe70c740.eastus2.azurecontainer.io/swagger.json
