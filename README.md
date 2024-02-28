@@ -80,6 +80,14 @@ Clique em  "Novo trabalho de ML Automatizado"
 ![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/f44252c1-d967-493b-b8da-dce6f2cdaf96)
 
 
+Preencha os Dados 
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/267ed10c-07c2-4f31-a956-90feb9b0dd5b)
+
+Após preencher os dados, "Selecionar tipo de tarefa" e clicar em "Regressão"
+
+![image](https://github.com/pedroheinrich/Machine-Learn-AI---Pacientes-Diabetes/assets/97209403/bff9d8cf-88ec-4b30-b0cc-04569dbcb823)
+
 
 
 
